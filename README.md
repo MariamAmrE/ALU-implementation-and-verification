@@ -1,5 +1,5 @@
 # ALU-implementation-and-verification
-ALU implementation and verification using Cadence Virtuoso
+ALU implementation and verification using Cadence Virtuoso and Verilog HDL
 
 # Overview
 This project showcases a complete digital hardware design flow for an Arithmetic Logic Unit (ALU), covering both RTL and transistor-level design. The ALU was first written in Verilog HDL as a synthesizable RTL model, then re-implemented in Cadence Virtuoso using the GPDK090 (90nm) technology. Functional equivalence was verified through simulation and waveform comparison.
